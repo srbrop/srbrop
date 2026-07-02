@@ -8,7 +8,7 @@ Soy estudiante de Ingeniería en Tecnologías de la Información e Innovación D
 * **Herramientas:** VS Code, NetBeans, Git
 
 ### 🚀 Mis Proyectos Destacados:
-* **[SkinsArts Studio](Link-a-tu-pagina):** Una suite web Full-Stack para generar y previsualizar en 3D "Skin Arts" de 27 piezas para NameMC, con algoritmo anti-lag y bypass de hashes.
+* **[SkinsArts Studio](https://srbrop.github.io/SkinsArts-Studio/):** Una suite web Full-Stack para generar y previsualizar en 3D "Skin Arts" de 27 skins para NameMC, con algoritmo anti-lag y bypass de hashes.
 
 ---
 * 👾 **NameMC:** [namemc.com/profile/Sonrojado](https://namemc.com/profile/Sonrojado)
